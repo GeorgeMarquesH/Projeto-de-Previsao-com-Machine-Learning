@@ -1,0 +1,36 @@
+# 📊 Projeto de Previsão com Machine Learning
+
+## 📌 Descrição
+Modelo de Machine Learning para prever o **score de crédito** de clientes, classificando-os como:
+- Good (Boa)
+- Standard (Ok)
+- Poor (Ruim)
+
+---
+
+## 🚀 Etapas principais
+1. Importação e tratamento da base de dados (`clientes.csv`)
+2. Codificação de variáveis categóricas com `LabelEncoder`
+3. Criação e treino dos modelos:
+   - Random Forest
+   - KNN
+4. Avaliação dos modelos com `accuracy_score`
+5. Previsão em novos clientes (`novos_clientes.csv`)
+
+---
+
+## 🛠️ Tecnologias
+- Python  
+- Pandas  
+- Scikit-learn  
+- Jupyter Notebook  
+
+---
+
+## 📊 Resultado
+O modelo **Random Forest** apresentou melhor desempenho na previsão do score de crédito.
+
+---
+
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/george-marques-holanda-5270a2321/)
